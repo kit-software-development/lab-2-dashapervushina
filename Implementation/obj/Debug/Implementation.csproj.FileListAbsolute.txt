@@ -1,0 +1,2 @@
+\\mac\Home\Downloads\lab-2-dashapervushina-master\Implementation\obj\Debug\Implementation.csprojAssemblyReference.cache
+\\mac\Home\Downloads\lab-2-dashapervushina-master\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
